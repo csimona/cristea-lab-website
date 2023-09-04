@@ -5,3 +5,5 @@ Visit **[csimona.github.io/cristea-lab-website](https://csimona.github.io/criste
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
+Enjoy!
+
