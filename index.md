@@ -1,9 +1,9 @@
 ---
 ---
 
-# csimona's Website
+# Cristea Lab Website, at the Dana-Farber Cancer Institute
 
-An engaging 1-3 sentence description of your lab.
+Stay tuned! The Cristea Lab website will be up very soon!
 
 {% include section.html %}
 
